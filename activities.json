@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "description": "Practica el uso de operadores aritméticos básicos en Java. Declara dos variables int: x = 10 y y = 5. Realiza y muestra la suma: int resultadoSuma = x + y. Realiza y muestra la resta: int resultadoResta = x - y. Realiza y muestra la multiplicación: int resultadoMultiplicacion = x * y. Realiza y muestra la división entera: int resultadoDivision = x / y. Realiza y muestra el módulo: int resultadoModulo = x % y. Imprime todos los resultados con mensajes descriptivos.",
+        "solution": "src/main/java/com/example/Ejercicio1.java"
+    },
+    {
+        "id": 2,
+        "description": "Comprende la diferencia entre división entera y decimal. Declara int a = 10 y int b = 3. Calcula la división entera: int divisionEntera = a / b. Calcula la división decimal: double divisionDecimal = (double) a / b. Declara double x = 15.5 y double y = 4.2. Calcula la división de decimales: double divisionDecimales = x / y. Imprime todos los resultados mostrando las diferencias. Explica en comentarios por qué los resultados son diferentes.",
+        "solution": "src/main/java/com/example/Ejercicio2.java"
+    },
+    {
+        "id": 3,
+        "description": "Practica el uso de operadores de incremento (++) y decremento (--). Declara int contador = 5. Muestra el valor inicial de contador. Aplica pre-incremento: ++contador y muestra el resultado. Aplica post-incremento: contador++ y muestra el resultado. Aplica pre-decremento: --contador y muestra el resultado. Aplica post-decremento: contador-- y muestra el resultado. Explica en comentarios la diferencia entre pre y post operadores.",
+        "solution": "src/main/java/com/example/Ejercicio3.java"
+    },
+    {
+        "id": 4,
+        "description": "Utiliza operadores de asignación básicos y compuestos. Declara int numero = 10. Usa asignación compuesta de suma: numero += 5 (equivale a numero = numero + 5). Usa asignación compuesta de resta: numero -= 3. Usa asignación compuesta de multiplicación: numero *= 2. Usa asignación compuesta de división: numero /= 4. Usa asignación compuesta de módulo: numero %= 3. Imprime el valor de numero después de cada operación.",
+        "solution": "src/main/java/com/example/Ejercicio4.java"
+    },
+    {
+        "id": 5,
+        "description": "Practica operadores de asignación con diferentes tipos de datos. Declara double precio = 100.0. Aplica descuento del 15%: precio *= 0.85. Declara String mensaje = \"Hola\". Concatena usando +=: mensaje += \" Mundo\". Declara int puntos = 50. Duplica los puntos: puntos *= 2. Aplica bonificación: puntos += 25. Imprime todos los resultados.",
+        "solution": "src/main/java/com/example/Ejercicio5.java"
+    },
+    {
+        "id": 6,
+        "description": "Utiliza la estructura condicional if para tomar decisiones. Declara int edad = 18. Usa if para verificar si edad >= 18, imprime \"Es mayor de edad\". Declara double nota = 7.5. Usa if para verificar si nota >= 6.0, imprime \"Aprobado\". Declara int numero = -5. Usa if para verificar si numero > 0, imprime \"Número positivo\". Usa if para verificar si numero < 0, imprime \"Número negativo\". Usa if para verificar si numero == 0, imprime \"Número es cero\".",
+        "solution": "src/main/java/com/example/Ejercicio6.java"
+    },
+    {
+        "id": 7,
+        "description": "Utiliza la estructura condicional if-else para decisiones binarias. Declara int numero = 15. Usa if-else para verificar si numero es par o impar (numero % 2 == 0). Declara double temperatura = 25.5. Usa if-else para verificar si temperatura > 30, imprime \"Hace calor\" o \"Temperatura agradable\". Declara int puntuacion = 85. Usa if-else para verificar si puntuacion >= 70, imprime \"Aprobado\" o \"Reprobado\". Declara boolean esEstudiante = true. Usa if-else para imprimir \"Es estudiante\" o \"No es estudiante\".",
+        "solution": "src/main/java/com/example/Ejercicio7.java"
+    },
+    {
+        "id": 8,
+        "description": "Utiliza múltiples condiciones con if-else if-else. Declara int calificacion = 85. Usa if-else if-else para determinar la letra de calificación: Si calificacion >= 90: \"A\", Si calificacion >= 80: \"B\", Si calificacion >= 70: \"C\", Si calificacion >= 60: \"D\", Si no: \"F\". Declara int hora = 14. Usa if-else if-else para determinar el saludo según la hora: Si hora < 12: \"Buenos días\", Si hora < 18: \"Buenas tardes\", Si no: \"Buenas noches\".",
+        "solution": "src/main/java/com/example/Ejercicio8.java"
+    },
+    {
+        "id": 9,
+        "description": "Utiliza operadores de comparación para evaluar condiciones. Declara int a = 10 y int b = 20. Evalúa y muestra: a == b (igualdad), a != b (desigualdad), a < b (menor que), a > b (mayor que), a <= b (menor o igual que), a >= b (mayor o igual que). Declara String texto1 = \"Hola\" y String texto2 = \"Hola\". Evalúa y muestra: texto1.equals(texto2) (comparación de cadenas).",
+        "solution": "src/main/java/com/example/Ejercicio9.java"
+    },
+    {
+        "id": 10,
+        "description": "Combina operadores lógicos (&&, ||, !) con condiciones complejas. Declara int edad = 25, double salario = 30000, boolean tieneExperiencia = true. Usa operador AND (&&): if (edad >= 18 && salario > 25000), imprime \"Califica para préstamo\". Usa operador OR (||): if (edad < 18 || edad > 65), imprime \"Descuento especial\". Usa operador NOT (!): if (!tieneExperiencia), imprime \"Necesita capacitación\". Combina operadores: if (edad >= 25 && (salario > 20000 || tieneExperiencia)), imprime \"Candidato ideal\". Declara boolean esFinDeSemana = false, boolean esFeriado = true. Usa: if (esFinDeSemana || esFeriado), imprime \"No hay clases\". Usa: if (!esFinDeSemana && !esFeriado), imprime \"Día de clases normal\".",
+        "solution": "src/main/java/com/example/Ejercicio10.java"
+    }
+]
