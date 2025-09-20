@@ -150,5 +150,80 @@
     ],
     "evaluatedAt": "2025-09-20T04:21:46.641Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "ciroescuderobrayan-SDJ/act_lp_s3": {
+    "repositoryUrl": "ciroescuderobrayan-SDJ/act_lp_s3",
+    "studentName": "Brayan Esneider Ciro Escudero",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y cumple con la lógica básica. Se podría mejorar añadiendo una descripción de la actividad en los comentarios del código y considerando la posibilidad de recibir los números como entrada en lugar de hardcodearlos."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "El código resuelve correctamente el problema planteado y demuestra la diferencia entre la división entera y decimal. La estructura del código es clara y concisa, incluyendo comentarios explicativos útiles."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La actividad demuestra correctamente el funcionamiento de los operadores de incremento y decremento (pre y post). El código es claro y fácil de entender, cumpliendo con el objetivo de la actividad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "El código demuestra correctamente el uso de operadores compuestos. La explicación es clara y concisa."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es funcional y demuestra el uso de operadores compuestos. Podría ser más clara la descripción de la actividad para entender mejor el propósito del código."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "La lógica es correcta para las condiciones `if` individuales, pero no se especifica la descripción del problema. Considera usar `if-else if-else` para verificar el número (positivo, negativo, cero) de manera más eficiente.  Falta la descripción del problema resuelto."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona, pero la actividad no está definida. Se podrían mejorar la legibilidad y la generalización creando métodos para cada verificación en lugar de usar valores hardcodeados y directamente imprimir en consola. Además, faltaría la descripción del ejercicio para saber si cumple con los requerimientos."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona y es legible, pero la actividad está un poco escueta. Podría haber sido más desafiante solicitando la calificación y la hora por entrada del usuario."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código demuestra el uso de operadores de comparación con enteros y strings. Sería mejor si la función `ejercicio9` devolviera los resultados en lugar de imprimirlos directamente para mayor reutilización."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código demuestra el uso correcto de los operadores lógicos. Podrías mejorar la legibilidad separando las condiciones complejas en variables booleanas más descriptivas."
+      }
+    ],
+    "overallScore": 4.1,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.1/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-09-20T04:22:48.202Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
