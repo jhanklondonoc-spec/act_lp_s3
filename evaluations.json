@@ -73,5 +73,82 @@
     ],
     "evaluatedAt": "2025-09-20T04:16:32.113Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "joseleonardosg19-ship-it/act_lp_s3": {
+    "repositoryUrl": "joseleonardosg19-ship-it/act_lp_s3",
+    "studentName": "Estudiante desconocido",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código base está presente, pero no implementa ninguna lógica para resolver el problema. Se necesita agregar la funcionalidad requerida en el cuerpo del método `ejercicio1()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La solución provista es un esqueleto de código. No resuelve ninguna actividad específica y carece de funcionalidad implementada."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código proporciona una estructura básica, pero falta la implementación real del ejercicio. La función `ejercicio3` solo imprime un mensaje, no cumple con ningún propósito específico."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código solo contiene la estructura básica de la función, pero no implementa ninguna lógica específica. Falta la solución al problema planteado en la descripción de la actividad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código proporciona la estructura básica de la clase y el método, pero no implementa la lógica requerida para resolver el ejercicio. Se debe agregar la implementación funcional dentro del método `ejercicio5()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código proporcionado no implementa ninguna lógica para resolver el ejercicio. Solo imprime \"Ejercicio 6\".  Necesitas agregar la funcionalidad requerida en el cuerpo de la función `ejercicio6()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código base provee la estructura inicial, pero no implementa ninguna funcionalidad relacionada con la descripción de la actividad (la cual es 'undefined'). Es necesario implementar la lógica requerida para completar el ejercicio."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no está implementada. Solo se encuentra el esqueleto inicial del ejercicio. Se necesita implementar la lógica solicitada en la descripción de la actividad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La función `ejercicio9` está presente pero no contiene ninguna lógica para resolver el problema planteado en la descripción de la actividad. El código solo imprime \"Ejercicio 9\"."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no resuelve ningún problema específico, solo imprime \"Ejercicio 10\". Falta la implementación lógica requerida por la descripción de la actividad (que no se proveyó)."
+      }
+    ],
+    "overallScore": 1,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-09-20T04:17:34.037Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
